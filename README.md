@@ -1,2 +1,1 @@
-# API-Controller
-API controller for retrieving data from the database, adding entries, updating, and deleting.
+I created an API controller for a hotel management system. It uses the Dapper library to interact with a database, allowing you to retrieve relevant data from the database, add new entries, update existing ones, and delete them. The code is built using the ASP.NET Core Web API architecture. To manage the database connection, it utilizes the IDbConnection interface and the IConfiguration object for configuration settings.
